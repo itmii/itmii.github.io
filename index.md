@@ -1,12 +1,19 @@
 ## Bienvenido a la pagina de logica matematica de Michael Pico
 ## Este proyecto fue posible gracias a a las redes neuronales
+https://es.wikipedia.org/wiki/Red_neuronal_artificial
 ## Que son las redes neuroanles
+http://avellano.fis.usal.es/~lalonso/RNA/index.htm
 ## Cuál es su relacion con la tería de grafoas
+http://www.madrimasd.org/blogs/complejidad/2006/10/23/47634
+## Que son los conjuntos
+https://es.wikipedia.org/wiki/Conjunto
+## Cuales son los operadores logicos
+https://fmhelp.filemaker.com/help/18/fmp/es/index.html#page/FMP_Help/logical-operators.html
 Incluir imagenes
 
-
+<img src="https://www.ecured.cu/images/e/e4/Operadores_logicos.png">
 <img src="https://andromedavaluecapital.com/wp-content/uploads/2018/02/neuronal-network-1024x585.jpg" alt="Red neuronal">
-
+<img src="https://i.ytimg.com/vi/a_tXDYOiqvI/maxresdefault.jpg">
 ![Grafo](https://www.madrimasd.org/blogs/matematicas/files/2012/09/Network_representation_of_brain_connectivity.jpg)
 
 
